@@ -13,7 +13,7 @@ state={
 			6889 3 
 		}
 		victory_points = { #Split
-			3924 3
+			3924 5
 		}
 		buildings = {
 			infrastructure = 3
@@ -23,11 +23,11 @@ state={
 				naval_base = 3
 			}
 			6889 = {
-				naval_base = 1
+				naval_base = 2
 			}
 		}
 		add_core_of = YGS
-		#add_claim_by = PIE #added by focus
+		add_claim_by = PIE
 		add_core_of = CRO
 	}
 
