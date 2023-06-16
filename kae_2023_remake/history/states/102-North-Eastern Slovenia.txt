@@ -11,9 +11,10 @@ state=
 		owner = YGS
 		buildings = {
 			infrastructure = 3
+			industrial_complex = 1
 		}
 		victory_points = {
-			665 1
+			665 3
 		}
 		add_core_of = YGS
 		add_core_of = SLV
